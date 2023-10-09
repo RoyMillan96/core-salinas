@@ -1,0 +1,2 @@
+# core-salinas
+ cores
